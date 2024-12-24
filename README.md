@@ -7,7 +7,6 @@ I am **Madhuri**, a graduate student at **The George Washington University**, pu
 - Applying **data mining**, **machine learning**, and **statistical modeling techniques** using **Python**.
 
 My passion lies in solving complex problems with data and delivering innovative solutions that create value for the organizations I work with. Let’s connect and collaborate on exciting projects! 🚀
-
 ---
 
 ### Languages and Tools:
@@ -16,6 +15,6 @@ My passion lies in solving complex problems with data and delivering innovative 
 - **Tableau**, **Power BI**
 
 ---
-
-### Contact:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuri-duvvuri/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuri-duvvuri/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Madhuri9/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhuriduvvuri.jobs@gmail.com)
