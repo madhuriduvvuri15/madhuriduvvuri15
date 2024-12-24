@@ -1,12 +1,13 @@
-## Hi there 👋
+# Hi, I'm Madhuri! 👋
 
-I am **Madhuri**, a graduate student at **The George Washington University**, pursuing a Master's in Computer Science. With professional expertise in **data analytics** and **data engineering**, I specialize in:
+I’m a graduate student at **The George Washington University**, pursuing a Master's in Computer Science. With 2 years of experience as a **Data Analyst** at **LatentView Analytics**, I specialize in **data analytics** and **data engineering**. I have hands-on expertise in:
 
-- **Data Migration, Optimization, and ETL Processes** across cloud platforms.
-- Creating **interactive dashboards** with **Tableau** and **Power BI** to visualize and communicate insights effectively to stakeholders and clients.
-- Applying **data mining**, **machine learning**, and **statistical modeling techniques** using **Python**.
+- **Data Migration**, **Optimization**, and **ETL Processes** across cloud platforms
+- Building **interactive dashboards** using **Tableau** and **Power BI** for effective data visualization
+- Applying **data mining**, **machine learning**, and **statistical modeling** techniques with **Python**
 
-#### My passion lies in solving complex problems with data and delivering innovative solutions that create value for the organizations I work with. Let’s connect and collaborate on exciting projects! 🚀
+I’m passionate about solving complex problems, driving data-driven decisions, and delivering innovative solutions. Let's connect and collaborate on exciting projects! 🚀
+
 ---
 
 ### Languages and Tools:
