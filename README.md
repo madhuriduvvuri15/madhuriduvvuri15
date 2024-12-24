@@ -6,7 +6,7 @@ I am **Madhuri**, a graduate student at **The George Washington University**, pu
 - Creating **interactive dashboards** with **Tableau** and **Power BI** to visualize and communicate insights effectively to stakeholders and clients.
 - Applying **data mining**, **machine learning**, and **statistical modeling techniques** using **Python**.
 
-My passion lies in solving complex problems with data and delivering innovative solutions that create value for the organizations I work with. Let’s connect and collaborate on exciting projects! 🚀
+#### My passion lies in solving complex problems with data and delivering innovative solutions that create value for the organizations I work with. Let’s connect and collaborate on exciting projects! 🚀
 ---
 
 ### Languages and Tools:
