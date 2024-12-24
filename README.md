@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**madhuriduvvuri15/madhuriduvvuri15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Madhuri**, a graduate student at **The George Washington University**, pursuing a Master's in Computer Science. With professional expertise in **data analytics** and **data engineering**, I specialize in:
 
-Here are some ideas to get you started:
+- **Data Migration, Optimization, and ETL Processes** across cloud platforms.
+- Creating **interactive dashboards** with **Tableau** and **Power BI** to visualize and communicate insights effectively to stakeholders and clients.
+- Applying **data mining**, **machine learning**, and **statistical modeling techniques** using **Python**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My passion lies in solving complex problems with data and delivering innovative solutions that create value for the organizations I work with. Let’s connect and collaborate on exciting projects! 🚀
+
+---
+
+### Languages and Tools:
+- **Python**, **R**, **MySQL**, **Oracle**, **Azure**, **AWS**
+- **Data Modeling**, **ETL Pipelines**, **Data Migration**
+- **Tableau**, **Power BI**
+
+---
+
+### Contact:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuri-duvvuri/)
