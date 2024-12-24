@@ -14,8 +14,7 @@ I am **Madhuri**, a graduate student at **The George Washington University**, pu
 - **Data Modeling**, **ETL Pipelines**, **Data Migration**
 - **Tableau**, **Power BI**
 
-### I at times write [![here](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@madhuriduvvuri&index=1&source=medium)](https://medium.com/@madhuriduvvuri15)  
-
+Do check my latest blogs [here!!](https://medium.com/@madhuriduvvuri15)
 ---
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuri-duvvuri/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Madhuri9/)  
