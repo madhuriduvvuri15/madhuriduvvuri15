@@ -15,8 +15,8 @@ I’m passionate about solving complex problems, driving data-driven decisions, 
 - **Data Modeling**, **ETL Pipelines**, **Data Migration**
 - **Tableau**, **Power BI**
 
-Do check my latest blogs [here!!](https://medium.com/@madhuriduvvuri15)
----
+Do check my latest blogs in [Medium!!](https://medium.com/@madhuriduvvuri15)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuri-duvvuri/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Madhuri9/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhuriduvvuri.jobs@gmail.com)
